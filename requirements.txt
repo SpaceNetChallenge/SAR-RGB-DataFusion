@@ -1,0 +1,8 @@
+#Requirements
+numpy
+scipy
+scikit-image
+matplotlib
+spectral
+gdal
+tqdm
